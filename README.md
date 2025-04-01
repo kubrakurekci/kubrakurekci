@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kubrakurekci
 - 👀 I’m interested in Front-End Developer
-- 🌱 I’m currently learning Angular
 
 
 <!---
